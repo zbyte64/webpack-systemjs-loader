@@ -1,1 +1,1 @@
-Poorly provides a require function inside webpacked modules that get retrieve already loaded modules.
+Poorly provides a `_require` function inside webpacked modules that retrieves already loaded modules.
