@@ -1,0 +1,26 @@
+{
+  "name": "webpack-systemjs-loader",
+  "version": "0.0.1",
+  "description": "register with systemjs module loader for webpack",
+  "main": "index.js",
+  "peerDependencies": {
+    "webpack": "^1.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zbyte64/webpack-systemjs-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "systemjs",
+    "es6",
+    "module"
+  ],
+  "author": "Jason Kraus <zbyte64@gmail.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zbyte64/webpack-systemjs-loader/issues"
+  },
+  "homepage": "https://github.com/zbyte64/webpack-systemjs-loader"
+}
